@@ -5,8 +5,8 @@
 - [Zaman Karmaşıklığı]
 - [Algoritmanın Avantajları ve Dezavantajları]
 - [Programın Kullanımı]
+- [Algoritmanın Kullanım Alanları]
 - [Kaynakça]
-
 ## Algoritma Hakkında
 
 Comb Sort, 1980 yılında Włodzimierz Dobosiewicz tarafından tasarlanan ve daha sonra Stephen Lacey ve Richard Box tarafından geliştirilen bir sıralama algoritmasıdır. Bubble Sort'un geliştirilmiş bir versiyonu olarak düşünülebilir ve onun en büyük dezavantajı olan "kaplumbağa sorunu"nu (küçük değerlerin dizinin sonundan başına doğru yavaş hareket etmesi) çözmeyi amaçlar.
@@ -39,7 +39,9 @@ Genel olarak Comb Sort, Bubble Sort'tan daha etkili ve Quick Sort ile karşıla�
 ### Dezavantajları
 - Quick Sort veya Merge Sort gibi daha gelişmiş algoritmalardan daha yavaştır
 - Kararlı (stable) bir sıralama algoritması değildir (aynı değere sahip elemanların sırası değişebilir)
+## Algoritmanın Kullanım Alanları
 
+Comb Sort algoritması, geliştirilmiş bir Bubble Sort türevidir ve genellikle sıralama algoritmalarının öğretildiği ortamlarda eğitimsel amaçlarla ya da bazı özel durumlar için kullanılır. Yaygın sıralama algoritmaları (Quick Sort, Merge Sort, Heap Sort) kadar performanslı değildir, bu yüzden endüstride çok tercih edilmez. Ancak bazı belirli durumlarda avantaj sağlayabilir.
 
 ## Programın Kullanımı
 
